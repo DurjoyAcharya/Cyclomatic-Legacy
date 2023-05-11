@@ -1,0 +1,1 @@
+```Black Box Testing: Black box testing involves testing the behavior of objects and methods without looking at their internal implementation. This is useful for testing the external interfaces of objects, and can be done using tools like Mockito.```

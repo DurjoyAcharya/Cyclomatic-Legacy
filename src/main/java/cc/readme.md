@@ -1,0 +1,1 @@
+```Code Coverage: Code coverage is a measure of how much of the code is exercised by the tests. It can be useful to ensure that all parts of the code are tested, and can be measured using tools like JaCoCo.```

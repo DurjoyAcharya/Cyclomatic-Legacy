@@ -1,0 +1,1 @@
+```White Box Testing: White box testing involves testing the internal implementation of objects and methods, and can be done using tools like JMockit. This can be useful for testing complex logic and edge cases.```

@@ -1,0 +1,1 @@
+```Test-Driven Development (TDD): TDD involves writing unit tests before writing the actual code. This ensures that the code is testable and that all requirements are met. It also helps to catch bugs early in the development cycle.```

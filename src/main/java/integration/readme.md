@@ -1,0 +1,1 @@
+```Integration Testing: Integration testing involves testing the interactions between different components of the system. This can be done using tools like Selenium or JBehave.```
